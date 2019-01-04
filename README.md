@@ -8,3 +8,4 @@ His work-horses
 function hello(){
 console.log('Hello, World');
 }
+i am in love with anonymous functions
