@@ -9,3 +9,7 @@ function hello(){
 console.log('Hello, World');
 }
 i am in love with anonymous functions
+// another function
+const query = function(x){
+retrun document.elementById(x).getAttribute('somethin')
+}
